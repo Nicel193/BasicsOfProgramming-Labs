@@ -6,7 +6,7 @@
             "command": "E:\\Programs\\mingw64\\bin\\g++.exe",
             "args": [
                 "-g",
-                "${workspaceFolder}\\Lab1_Additional\\*.cpp",
+                "${workspaceFolder}\\Lab2\\Lab2_Additional\\*.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
